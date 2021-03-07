@@ -2,6 +2,10 @@
 
 ## **CORE**
 
+Pippi Shrimp Swap has as part of its product and services delivery the following products which are all painstakingly designed to ensure users of each of the products get the best out of them.
+
+These are:
+
 SHRIMP SWAP
 
 SHRIMP FARM
@@ -12,17 +16,15 @@ SHRIMP EXCHANGE
 
 ## **Other products**
 
-Lottery 
+Not limiting itself in terms of innovation, Shrimp equally has the following:
 
-Analytics
+**IDO**: Users can raise funds for their project in $PIPI-HT LP tokens. After redeeming the LP tokens, the HT is distributed to the project and the $PIPI is burned.
 
-Voting
+**Lending & Borrowing**: Lend and borrow HECO and LP tokens - $PIPI provides rate discount which is affordable and has an easy pay-back options.
 
-IFO \(Initial Farm Offering\): Raise funds for your project in SHRIMP-HT LP tokens. After redeeming the LP tokens, the HT is distributed to the project and the SHRIMP is burned.
+**Margin Trading**: Users can trade HECO tokens with leverage on-chain — periodic $PIPI buyback and burn options.
 
-Lending & Borrowing: Lend and borrow HECO and LP tokens - SHRIMP provides rate discount
+**NFT Ecosystem**: The Non-Fungicide Token ecosystem allows users to mint, trade, and do much more as these services and more can all be paid in $PIPI.
 
-Margin Trading: Trade HECO tokens with leverage on-chain — periodic SHRIMP buyback and burn
-
-NFT Ecosystem: Mint, trade, and more — all paid in SHRIMP
+Apart from the above, other products are Lottery, Analytics and Voting.
 

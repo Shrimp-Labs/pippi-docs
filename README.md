@@ -1,30 +1,34 @@
-# About Shrimp Swap
+# About Pippi Shrimp Swap
 
-## **Introduction**
+## Introduction 
 
-ShrimpSwap is a decentralized exchange running on Huobi ECO Chain, with lots of other features that let you earn and win tokens.
+Pippi Shrimp Swap is a decentralized exchange running on Huobi ECO Chain, with lots of features that let you earn and win tokens. It is fast, cheap and easily accessible as it is not difficult to use. 
 
-It's fast, cheap, and anyone can use it.
+## Features 
 
-It's also got Shrimps and rabbits.
+Pippi Shrimp Swap boasts of amazing features that made it standout. These features are elucidated upon below: 
 
-## **Features**
+↔️ **Trade** 
 
-↔️ Trade
+The exchange is an automated market maker \(AMM\) that allows two tokens to be exchanged on the Huobi ECO Chain. This is carried out to the users satisfaction effortlessly by Pippi Shrimp Swap. 
 
-The exchange is an automated market maker \(“AMM”\) that allows two tokens to be exchanged on the Huobi ECO Chain.
+**💸 Earn** 
 
-💸 Earn
+On top of that, there are various ways to earn with SHRIMP which are; earning $PIPI with yield farms, earning $PIPI with Staking, and earning more tokens with Syrup pools. 
 
-On top of that, you can earn SHRIMP with yield farms, earn SHRIMP with Staking, and earn even more tokens with Syrup pools.
+**🎲 Win** 
 
-🎲 Win
+The Pippi Shrimp Swap Lottery allows users to win when played.
 
-Win big with the ShrimpSwap Lottery!
+## Token
 
-## **Why Huobi ECO Chain \(HECO\)?**
+Token Name: Pippi Shrimp Token
 
-In very simple terms, why would we want to drive a slower car that costs more to run? We're all about gamification, so we want to maximize the feedback loop of earning, staking, and earning again: HECO's superior speed and much \(much much\) lower transaction fees let us do this.
+Token: $PIPI
 
-While HECO might not have the level of adoption Ethereum does at current, we believe in Huobi’s ability and drive to get it mighty close in the foreseeable future.
+Pledge Proof Token: $xPIPI
+
+## Why Huobi ECO Chain \(HECO\)? 
+
+In very simple terms, why would we want to drive a slower car that costs more to run? We are all about gamification, so we want to maximize the feedback loop of earning, staking, and earning again: and all these and more can be achieved by HECO's \(Huobi ECO\) superior speed and much more \(amazingly insane\) low transaction fees. Admittedly, while HECO might not have the level of adoption Ethereum does at the moment, Huobi’s ability and drive as it continues on this right track will reduce the difference as the adoption of Huobi grows in the for seeable future.
 
