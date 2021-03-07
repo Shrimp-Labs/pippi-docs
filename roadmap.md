@@ -10,7 +10,7 @@ SHRIMP SWAP
 
 SHRIMP FARM
 
-SHRIMP Staking \(Syrup Pools\)
+SHRIMP POOL \(Syrup Pools\)
 
 SHRIMP EXCHANGE
 
