@@ -1,4 +1,4 @@
-# About Pippi Shrimp Swap
+# About
 
 ## Introduction 
 

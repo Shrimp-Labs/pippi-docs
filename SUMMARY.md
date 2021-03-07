@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Pippi Shrimp Swap](README.md)
+* [About](README.md)
 * [Roadmap](roadmap.md)
 * [Exchange](exchange.md)
 * [Yield Farming](yield-farming.md)
