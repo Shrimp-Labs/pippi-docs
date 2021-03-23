@@ -1,6 +1,8 @@
 # IDO
 
-### IDO: 8% 8,000,000 \(raising amount: 120w刀） $0.15/PIPI 
+### IDO: 8%, 8,000,000 PIPI
+
+### Price: $0.15/PIPI 
 
 ## How to take part 
 
