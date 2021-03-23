@@ -1,16 +1,16 @@
-# About
+# About Pippi Finance
 
 ## Introduction 
 
-Pippi Shrimp Swap is a decentralized exchange running on Huobi ECO Chain, with lots of features that let you earn and win tokens. It is fast, cheap and easily accessible as it is not difficult to use. 
+Pippi Finance is a decentralized exchange running on Huobi ECO Chain, with lots of features that let you earn and win tokens. It is fast, cheap and easily accessible as it is not difficult to use. 
 
 ## Features 
 
-Pippi Shrimp Swap boasts of amazing features that made it standout. These features are elucidated upon below: 
+Pippi Finance boasts of amazing features that made it stand out. These features are elucidated upon below: 
 
 ↔️ **Trade** 
 
-The exchange is an automated market maker \(AMM\) that allows two tokens to be exchanged on the Huobi ECO Chain. This is carried out to the users satisfaction effortlessly by Pippi Shrimp Swap. 
+The exchange is an automated market maker \(AMM\) that allows two tokens to be exchanged on the Huobi ECO Chain. This is carried out to the users satisfaction effortlessly by Pippi Finance. 
 
 **💸 Earn** 
 
@@ -18,7 +18,7 @@ On top of that, there are various ways to earn with SHRIMP which are; earning $P
 
 **🎲 Win** 
 
-The Pippi Shrimp Swap Lottery allows users to win when played.
+ThePippi Finance Lottery allows users to win when played.
 
 ## Token
 

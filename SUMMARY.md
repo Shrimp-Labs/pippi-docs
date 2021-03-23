@@ -1,10 +1,18 @@
 # Table of contents
 
-* [About](README.md)
+* [About Pippi Finance](README.md)
+* [FAQs](faqs.md)
 * [Roadmap](roadmap.md)
-* [Exchange](exchange.md)
-* [Yield Farming](yield-farming.md)
-* [Pool](pool.md)
-* [Tokenomics](tokenomics/README.md)
-  * [$PIPI Deflation Model](tokenomics/usdpipi-deflation-model.md)
+* [Tokenomics](tokenomics.md)
+
+## Pippi Swap
+
+* [Exchange](pippi-swap/exchange.md)
+* [Farming](pippi-swap/yield-farming.md)
+* [Pool](pippi-swap/pool.md)
+
+---
+
+* [Guidance for Liquidity Mining](guidance-for-liquidity-mining.md)
+* [Pippi Finance挖矿教程](pippi-finance-wa-kuang-jiao-cheng.md)
 
