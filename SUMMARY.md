@@ -15,4 +15,5 @@
 
 * [Guidance for Liquidity Mining](guidance-for-liquidity-mining.md)
 * [Pippi Finance挖矿教程](pippi-finance-wa-kuang-jiao-cheng.md)
+* [IDO](ido.md)
 
