@@ -12,7 +12,7 @@ Prepare HUSD in your wallet on HECO chain Heco-Peg HUSD Token
 
 ### During Sale: 
 
-1. While the sale is live, commit your HUSD tokens to buy the IDO tokens PIPI \(Min Amount: 1000 u\) 
+1. While the sale is live, commit your HUSD tokens to buy the IDO tokens PIPI \(Min Amount: 200 u\) 
 2. Put the Referral address when you deposit your HUSD 
 
 ### After Sale: 
