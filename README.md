@@ -14,17 +14,19 @@ The exchange is an automated market maker \(AMM\) that allows two tokens to be e
 
 **💸 Earn** 
 
-On top of that, there are various ways to earn with SHRIMP which are; earning $PIPI with yield farms, earning $PIPI with Staking, and earning more tokens with Syrup pools. 
+On top of that, there are various ways to earn with PIPI which are: 1. Earning $PIPI with yield farms 2. Earning $PIPI with Staking 3. Earning more tokens with xPIPI pools. 
 
-**🎲 Win** 
+**🎲 NFT** 
 
-ThePippi Finance Lottery allows users to win when played.
+The Pippi Finance NFT allows PIPI holders to win more fun collections when played.
 
 ## Token
 
 Token Name: Pippi Shrimp Token
 
 Token: $PIPI
+
+Contract:  [https://hecoinfo.com/token/0xaaae746b5e55d14398879312660e9fde07fbc1dc](https://hecoinfo.com/token/0xaaae746b5e55d14398879312660e9fde07fbc1dc)
 
 Pledge Proof Token: $xPIPI
 

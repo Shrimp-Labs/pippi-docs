@@ -9,7 +9,7 @@
 
 * [Exchange](pippi-swap/exchange.md)
 * [Farming](pippi-swap/yield-farming.md)
-* [Pool](pippi-swap/pool.md)
+* [Pools](pippi-swap/pool.md)
 
 ---
 
