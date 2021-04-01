@@ -41,7 +41,7 @@ PIPI token is a governance token of the Pippi Finance platform. It will also cap
 
 **AIRDROP TO Community:** 2% \(2,000,000\)
 
-**Community Treasury:** 20% \(20,000,000\) (locked in 3 month)
+**Community Treasury:** 20% \(20,000,000\, locked in 3 month)
 
 For more details, please visit our documentation page: [tokenomics page](https://docs.pippi.finance/tokenomics)
 
