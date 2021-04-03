@@ -49,7 +49,7 @@ For more details, please visit our documentation page: [tokenomics page](https:/
 
 **Ticker:** xPIPI
 
-**Contract address: link**
+**Contract address: https://hecoinfo.com/token/0x8377d9a4069e92653906a061fa66270476c1dc9e**
 
 **25% of PIPI emissions** are distributed to xPIPI holders every block. Users can claim these rewards and re-invest them.
 
