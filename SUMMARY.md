@@ -5,15 +5,16 @@
 * [Roadmap](roadmap.md)
 * [Tokenomics](tokenomics.md)
 
-## Pippi Swap
+## Pippi Finance Products <a id="pippi-swap"></a>
 
-* [Exchange](pippi-swap/exchange.md)
-* [Farming](pippi-swap/yield-farming.md)
-* [Pools](pippi-swap/pool.md)
+* [Pippi Swap](pippi-swap/exchange.md)
+* [Pippi Farming](pippi-swap/yield-farming.md)
+* [Pippi xPIPI Pools](pippi-swap/pool.md)
+* [IDO](pippi-swap/ido.md)
+* [NFT](pippi-swap/nft.md)
 
----
+## Tutorials
 
-* [Guidance for Liquidity Mining](guidance-for-liquidity-mining.md)
-* [Pippi Finance挖矿教程](pippi-finance-wa-kuang-jiao-cheng.md)
-* [IDO](ido.md)
+* [Pippi Finance Liquidity Mining Tutorial](tutorials/guidance-for-liquidity-mining.md)
+* [Pippi Finance挖矿教程](tutorials/pippi-finance-wa-kuang-jiao-cheng.md)
 

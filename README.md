@@ -10,7 +10,7 @@ Pippi Finance boasts of amazing features that made it stand out. These features 
 
 ↔️ **Trade** 
 
-The exchange is an automated market maker \(AMM\) that allows two tokens to be exchanged on the Huobi ECO Chain. This is carried out to the users satisfaction effortlessly by Pippi Finance. 
+The exchange is an automated market maker \(AMM\) that allows two tokens to be exchanged on the Huobi ECO Chain. This is carried out to users' satisfaction effortlessly by Pippi Finance. 
 
 **💸 Earn** 
 
@@ -32,5 +32,5 @@ Pledge Proof Token: $xPIPI
 
 ## Why Huobi ECO Chain \(HECO\)? 
 
-In very simple terms, why would we want to drive a slower car that costs more to run? We are all about gamification, so we want to maximize the feedback loop of earning, staking, and earning again: and all these and more can be achieved by HECO's \(Huobi ECO\) superior speed and much more \(amazingly insane\) low transaction fees. Admittedly, while HECO might not have the level of adoption Ethereum does at the moment, Huobi’s ability and drive as it continues on this right track will reduce the difference as the adoption of Huobi grows in the for seeable future.
+In very simple terms, why would we want to drive a slower car that costs more to run? We are all about gamification, so we want to maximize the feedback loop of earning, staking, and earning again: and all these and more can be achieved by HECO's \(Huobi ECO\) superior speed and much more \(amazingly insane\) low transaction fees. Admittedly, while HECO might not have the level of adoption Ethereum does at the moment, Huobi’s ability and drive as it continues on this right track will reduce the difference as the adoption of Huobi grows in the seeable future.
 

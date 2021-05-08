@@ -1,32 +1,36 @@
-# Farming
+# Pippi Farming
 
-## **Farms**
+## Pippi **Farm**
 
-Initial Liquidity Pools \(LPs\) for farming $PIPI tokens:
+Current Available LP Minings \(May 8th, 2021\)
 
-Reward multipliers:
+Pippi Farm: [https://app.pippi.finance/farms](https://app.pippi.finance/farms)
 
-0. PIPI ： stake PIPI, get xPIPI, earn PIPI \(25% of rewards per block will be distributed to PIPI holders\)
-
-1. HT/PIPI LP x20
-
-2. HUST/HT x10
-
-3. HBTC/HT x5
-
-4. HETH/HT x5
-
-5. HPT/HT x3
-
-6. HBCH/HT x2
-
-7. HLTC/HT x2
-
-8. HDOT/HT X2
-
-9. FIL/HT x2
-
-10. UNI/HT x1
-
-11. LINK/HT x1
+| 0 | Stake LP to earn $PIPI |
+| :--- | :--- |
+| 1 | PIPI-USDT LP |
+| 2 | PIPI-HUSD LP |
+| 3 | HOO-USDT LP |
+| 4 | DOGE-USDT LP |
+| 5 | BEE-HT LP |
+| 6 | PIPI-HT LP |
+| 7 | GDT-HUSD LP |
+| 8 | CAN-HT LP |
+| 9 | LHB-HT LP |
+| 10 | MDX-HT LP |
+| 11 | TPT-HUSD LP |
+| 12 | ONE-HUSD LP |
+| 13 | SHIB-USDT LP |
+| 14 | PTD-HT LP |
+| 15 | SWF-HT LP |
+| 16 | FIL-HT LP |
+| 17 | HUSD-HT LP |
+| 18 | HLTC-HT LP |
+| 19 | HDOT-HT LP |
+| 20 | HPT-HT LP |
+| 21 | KSM-USDT LP |
+| 22 | USDT-HUSD LP |
+| 23 | HETH-HT LP |
+| 24 | HBTC-HT LP |
+| 25 | HBCH-HT LP |
 

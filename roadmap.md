@@ -12,21 +12,27 @@ Pippi FARM
 
 xPIPI POOLS
 
-## Liquidity protection 
+### **Pippi Swap**
 
-**Pippi Swap** v2 will design liquidity protection mechanism so that a **liquidity** provider always gets back the same value he/she originally deposits plus trading fees through a novel concept called Impermanent Loss Insurance. Impermanent Loss Insurance accrues over time, by 1% each day, until 100% **protection** is achieved after xx days in the pool.
+**Pippi Swap** will be upgraded to **V2**, which will add a liquidity protection mechanism so that each liquidity provider always gets back the same value he/she originally deposits plus trading fees through a novel concept called **Impermanent Loss Insurance**. Impermanent Loss Insurance accrues over time, by 1% each day, until 100% protection is achieved after few days in the pool.
 
-## **Other products**
+### NFT
 
-Not limiting itself in terms of innovation, Shrimp equally has the following:
+Empower more NFT collections' value and connect them to Pippi financial products, all earnings will be used to purchase $PIPI and burned
 
-**NFT Ecosystem**: The Non-Fungicide Token ecosystem allows users to mint, trade, and do much more as these services and more can all be paid in $PIPI.
+### IDO ****
 
-**IDO**: Users can raise funds for their project in $PIPI-HT LP tokens. After redeeming the LP tokens, the HT is distributed to the project and the $PIPI is burned.
+Support more excellent projects to launch on HECO, building a stronger HECO ecosystem, and burn more $PIPI at the same time
 
-**Lending & Borrowing**: Lend and borrow HECO and LP tokens - $PIPI provides a rate discount that is affordable and has an easy pay-back option.
+### Market Prediction Tool
 
-**Margin Trading**: Users can trade HECO tokens with leverage on-chain — periodic $PIPI buyback and burn options.
+Predict market developments and tokens' prices, bring online finance into DAPPs, and all $PIPI services fee will be burned
 
-Apart from the above, other products are Lottery, Analytics, and Voting.
+### Games
+
+Lottery, Blind Box, etc...
+
+### **More...**
+
+Please stay tuned and follow Pippi Finance for the latest updates
 

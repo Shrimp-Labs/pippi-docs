@@ -1,4 +1,4 @@
-# Guidance for Liquidity Mining
+# Pippi Finance Liquidity Mining Tutorial
 
 1. **Go to the farm page here.**
 
@@ -10,7 +10,7 @@
 
 4. Go to the exchange page here and click “Pool” and then “Add Liquidity”.![](https://miro.medium.com/max/2320/0*W4sshCdrlBPqzxcE)
 
-5. Select the tokens to add, in this case HT and PIPI. You need to provide them in a 50/50 ratio vs USD value.
+5. Select the tokens to add, in this case, HT and PIPI. You need to provide them in a 50/50 ratio vs USD value.
 
 For example, you would need to add $10 of HT and $10 of PIPI. Once you are done, click “Supply”.
 
