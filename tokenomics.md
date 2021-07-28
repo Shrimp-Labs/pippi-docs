@@ -2,7 +2,7 @@
 
 ## **$PIPI**
 
-PIPI token is a governance token of the Pippi Finance platform. It will also capture the economic benefits of the protocol. There will be a maximum of 100 million PIPI tokens.
+PIPI token is a governance token of the Pippi Finance platform. It will also capture the economic benefits of the protocol. There will be a maximum of 100 million PIPI tokens.(exclude burning part)
 
 **IDO:** 8% \(8,000,000\) 
 
@@ -12,7 +12,8 @@ PIPI token is a governance token of the Pippi Finance platform. It will also cap
 
 **Community Treasury:** 20% \(20,000,000, Locked for 3 month, in [https://hecoinfo.com/address/0xc2ac5ddf599889283ac2f0f4b80b681e83be9285\#code](https://hecoinfo.com/address/0xc2ac5ddf599889283ac2f0f4b80b681e83be9285#code)\)
 
-**Contract Address:**[  
+**Contract Address:**[
+  
 **https://hecoinfo.com/address/0xaAaE746b5e55D14398879312660e9fDe07FBC1DC**](
 https://hecoinfo.com/address/0xaAaE746b5e55D14398879312660e9fDe07FBC1DC)\*\*\*\*
 
