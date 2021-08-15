@@ -9,6 +9,9 @@
 
 * [Pippi Swap](pippi-swap/exchange.md)
 * [Pippi Farming](pippi-swap/yield-farming.md)
+* [Pippi Lending](pippi-swap/pippi-lending/README.md)
+  * [Untitled](pippi-swap/pippi-lending/untitled-1.md)
+  * [Untitled](pippi-swap/pippi-lending/untitled.md)
 * [Pippi xPIPI Pools](pippi-swap/pool.md)
 * [IDO](pippi-swap/ido.md)
 * [NFT](pippi-swap/nft.md)
