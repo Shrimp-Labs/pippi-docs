@@ -7,7 +7,9 @@
 
 ## Pippi Finance Products <a id="pippi-swap"></a>
 
-* [Pippi Swap](pippi-swap/exchange.md)
+* [Pippi Swap](pippi-swap/exchange/README.md)
+  * [OKExChain](pippi-swap/exchange/okexchain.md)
+  * [Heco](pippi-swap/exchange/heco.md)
 * [Pippi Farming](pippi-swap/yield-farming.md)
 * [Pippi Lending](pippi-swap/pippi-lending/README.md)
   * [Networks](pippi-swap/pippi-lending/networks.md)
