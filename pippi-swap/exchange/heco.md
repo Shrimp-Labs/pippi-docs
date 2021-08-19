@@ -1,4 +1,4 @@
-# Heco
+# Heco Chain
 
 Factory: 0x979efE7cA072b72d6388f415d042951dDF13036e
 
