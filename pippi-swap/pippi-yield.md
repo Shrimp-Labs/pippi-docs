@@ -10,5 +10,5 @@ Capital pools that automatically generate yield based on opportunities present i
 
 ### Earn
 
-The first Yearn product is based on [**CherrySwap** **Farms**](https://www.cherryswap.net/farms/). Funds are farmed in cherry Farms and auto compounds **every one hour**. Users can deposit to these yield farming pools smart contracts via the yield page. This product completely optimizes the interest accrual process for end-users to ensure they are obtaining the highest interest rates at all times among the platforms specified above.
+The first Yearn product is based on [**CherrySwap** **Farms**](https://www.cherryswap.net/farms/). Funds are farmed in cherry Farms and auto compounds **EVERY HOUR**. Users can deposit to these yield farming pools smart contracts via the yield page. This product completely optimizes the interest accrual process for end-users to ensure they are obtaining the highest interest rates at all times among the platforms specified above.
 
