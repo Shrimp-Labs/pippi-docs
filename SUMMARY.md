@@ -20,7 +20,7 @@
   * [Supplying Assets](pippi-swap/pippi-lending/supplying-assets.md)
   * [Borrowing Assets](pippi-swap/pippi-lending/borrowing-assets.md)
   * [Liquidation](pippi-swap/pippi-lending/liquidation.md)
-* [Pippi Yield](pippi-swap/pippi-yield.md)
+* [Pippi Yield Farms](pippi-swap/pippi-yield.md)
 * [Pippi xPIPI Pools](pippi-swap/pool.md)
 * [IDO](pippi-swap/ido.md)
 * [NFT](pippi-swap/nft.md)

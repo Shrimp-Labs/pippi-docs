@@ -1,4 +1,4 @@
-# Pippi Yield
+# Pippi Yield Farms
 
 PIPI Yiled Farm is the platform which is a yield optimizer that moves funds around the decentralized finance \(“defi”\) ecosystem in an effort to generate a high return.
 
